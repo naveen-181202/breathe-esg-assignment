@@ -1,0 +1,6 @@
+expense_id,trip_id,traveler,expense_type,start_date,end_date,origin,destination,distance,distance_unit,nights,vendor,amount,currency
+E-8001,T-120,Anika Rao,Flight,2026-01-12,2026-01-12,BLR,DEL,,, ,IndiGo,18500,INR
+E-8002,T-120,Anika Rao,Hotel,2026-01-12,2026-01-15,Delhi,Delhi,,,3,Taj Hotels,42000,INR
+E-8010,T-128,Michael Chen,Rail,2026-02-03,2026-02-03,London,Manchester,335,km,,Avanti West Coast,92,GBP
+E-8011,T-128,Michael Chen,Taxi,2026-02-04,2026-02-04,Manchester Office,Hotel,7.5,mi,,Uber,28,GBP
+E-8020,T-140,Sarah Malik,Flight,2026-02-18,2026-02-18,DEL,LHR,,, ,British Airways,1160,GBP

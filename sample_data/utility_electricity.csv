@@ -1,0 +1,4 @@
+bill_id,utility,site_code,meter_number,period_start,period_end,kwh,peak_kw,tariff,total_charge,currency
+U-10091,BESCOM,BLR01,MTR-BLR-7781,2026-01-01,2026-01-31,84200,420,HT2A Industrial,765000,INR
+U-20412,MSEDCL,PUN02,MTR-PUN-9910,2026-01-11,2026-02-10,61250,310,HT I Commercial,590000,INR
+U-20455,MSEDCL,PUN02,MTR-PUN-9910,2026-02-11,2026-03-10,238000,690,HT I Commercial,2210000,INR

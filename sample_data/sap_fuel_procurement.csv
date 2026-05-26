@@ -1,0 +1,5 @@
+Werk,Buchungsdatum,Material,Kurztext,Menge,Einheit,Lieferant,Betrag,Wahrung,Beleg
+BLR01,15.01.2026,FUEL-DIESEL,DIESEL LOW SULPHUR,1250,L,Shell India,118000,INR,4900001810
+PUN02,2026-01-18,FUEL-NG,Natural gas boiler fuel,320,MMBtu,GAIL,390000,INR,4900001811
+BLR01,01/29/2026,SRV-AUDIT,Environmental consulting services,1,EA,Green Ledger Advisors,12500,USD,4500002231
+ZZ999,2026-02-02,FUEL-DIESEL,DIESEL GENERATOR TOPUP,85,gal,Local Fuel Depot,4200,USD,4900001812
